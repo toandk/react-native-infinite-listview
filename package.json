@@ -1,0 +1,39 @@
+
+{
+  "name": "react-native-infinite-listview",
+  "version": "1.0.0",
+  "description": "A React Native ListView completely written in js, support refresh control and infinite scrolling",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "listview",
+    "infinite",
+    "pulltorefresh",
+    "pull to refresh",
+    "load more",
+    "scroll",
+    "mobile",
+    "ui"
+  ],
+  "author": "ToanDK <dkt204@gmail.com>",
+  "homepage": "https://github.com/toandk/react-native-infinite-listview",
+  "bugs": {
+    "url": "https://github.com/toandk/react-native-infinite-listview/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:toandk/react-native-infinite-listview.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+
+  }
+}
