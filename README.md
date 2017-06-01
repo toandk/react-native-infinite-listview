@@ -3,6 +3,8 @@
 
 A React Native ListView completely written in js, support refresh control and infinite scrolling
 
+![demo](https://github.com/toandk/react-native-infinite-listview/blob/master/gif/sample.gif?raw=true)
+
 ## Installation
 
 `$ npm install react-native-infinite-listview --save`
@@ -10,6 +12,8 @@ A React Native ListView completely written in js, support refresh control and in
 ## Usage
 ```javascript
 import {InfiniteListview} from 'react-native-infinite-listview';
+
+//...
 
 render() {
   return (
