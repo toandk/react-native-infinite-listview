@@ -35,4 +35,4 @@ See more in Sample project
 
 ## License
 
-[MIT License](http://opensource.org/licenses/mit-license.html). © Joel Arvidsson 2015
+[MIT License](http://opensource.org/licenses/mit-license.html). © ToanDK 2017

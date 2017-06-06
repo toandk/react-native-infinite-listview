@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-infinite-listview",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React Native ListView completely written in js, support refresh control and infinite scrolling",
   "main": "index.js",
   "scripts": {
