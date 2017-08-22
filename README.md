@@ -11,7 +11,7 @@ A React Native ListView completely written in js, support refresh control and in
 
 ## Usage
 ```javascript
-import {InfiniteListview} from 'react-native-infinite-listview';
+import {InfiniteListView} from 'react-native-infinite-listview';
 
 //...
 
